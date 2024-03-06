@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Artificial Intelligence Engineering student
 -------------------------------------------
 
-1st year undergraduate student
+First-year undergraduate student at Prince of Songkla University
 
 * 🌍  I'm based in Songkla, Thailand
 * ✉️  You can contact me at [keetasin01596@gmail.com](mailto:keetasin01596@gmail.com)

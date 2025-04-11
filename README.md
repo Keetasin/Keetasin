@@ -7,13 +7,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Artificial Intelligence Engineering Student
 -------------------------------------------
 
-Third year undergraduate student at Prince of Songkla University
 
+### About Me
+
+* 🎓  3rd-year undergraduate student at Prince of Songkla University
+* 🧠  Passionate about Deep Learning and Machine Learning
 * 🌍  I'm based in Songkla, Thailand
 * ✉️  You can contact me at [keetasin01596@gmail.com](mailto:keetasin01596@gmail.com)
 
-<a href="https://www.github.com/Keetasin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Keetasin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -22,11 +23,18 @@ src="https://img.shields.io/github/followers/Keetasin?logo=github&style=for-the-
 </p>
 
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Keetasin" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/thisisk_key" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
 
+
 ### Badges
 
-<a href="https://github.com/Keetasin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keetasin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://www.github.com/Keetasin" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Keetasin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Keetasin/)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keetasin&layout=compact&theme=tokyonight)
+
+

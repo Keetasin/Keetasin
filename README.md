@@ -13,7 +13,7 @@ Artificial Intelligence Engineering Student
 * 🎓  3rd-year undergraduate student at Prince of Songkla University
 * 🧠  Passionate about Deep Learning and Machine Learning
 * 🌍  I'm based in Songkla, Thailand
-* ✉️  You can contact me at [keetasin01596@gmail.com](mailto:keetasin01596@gmail.com)
+* ✉️  You can contact me at [keetasin01596@gmail.com](mailto:keetasin.k@gmail.com)
 
 
 ### Skills

@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/keetasin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:keetasin.k@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=keetasin.k@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://leetcode.com/Keetasin/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
   <a href="https://www.hackerrank.com/profile/Keetasin_K" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 </p>

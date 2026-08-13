@@ -40,7 +40,7 @@
 
 **Frontend**
 <p align="left>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" /> </p>
 </p>
 
 **Tools & Infrastructure**

@@ -1,36 +1,66 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keetasin Kongsee
-========================================================================================================================================
-<div align="center">
-  <img src="https://media.tenor.com/lO6HqZ3I2dIAAAAj/e.gif">
-</div>
+<h1 align="center">Hi, I'm Keetasin Kongsee 👋</h1>
+<h3 align="center">AI Engineering Student | Generative AI · Agentic AI · RAG Systems</h3>
 
-Artificial Intelligence Engineering Student
--------------------------------------------
-
-
-### About Me
-
-* 🎓  4th-year undergraduate student at Prince of Songkla University
-* 🧠  Passionate about generative ai, ai agent and agentic ai
-* 🌍  I'm based in Songkla, Thailand
-* ✉️  You can contact me at keetasin.k@gmail.com
-
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" /></a><a href="https://huggingface.co/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/huggingface-colored-dark.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/keetasin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:keetasin.k@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/Keetasin/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/Keetasin_K" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
 </p>
 
-### Badges
+---
 
-<a href="https://www.github.com/Keetasin" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Keetasin?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### 🧑‍💻 About Me
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/Keetasin/)
+- 🎓 4th-year **AI Engineering** student at **Prince of Songkla University (PSU)**, r202-coe-psu Team
+- 🤖 Focused on **Generative AI**, **Agentic AI**, and **RAG (Retrieval-Augmented Generation)** systems
+- 🧪 Actively building production-oriented AI systems: chatbots, evaluation frameworks, and agentic tool-calling pipelines
+- 📍 Based in Songkhla, Thailand
+- ✉️ Reach me at **keetasin.k@gmail.com**
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/Keetasin_K)
+---
+ 
+### 🛠️ Tech Stack
+ 
+**Languages**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,cpp" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keetasin&layout=compact&theme=tokyonight)
+**AI / ML**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black" height="36"/>
+</p>
 
+**Backend & Data**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,mongodb,postgres" />
+</p>
+
+**Frontend**
+<p align="left>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap" />
+</p>
+
+**Tools & Infrastructure**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,vim,vscode" />
+</p>
+
+---
+ 
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Keetasin&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Keetasin&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+
+---
+ 
 
